@@ -54,6 +54,5 @@ The graph reinforces the relationship between higher average daily rates and inc
 2. Install the required Python packages.
 3. Run the provided Python scripts for data analysis.
 
-## Contributors
-- Ananwita Sarkar
+
 
